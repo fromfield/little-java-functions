@@ -89,7 +89,7 @@ public abstract class Snippets {
     }
 
     /**
-     * Chunks an array into smaller arrays of a specified size.
+     * 把一个数组分块成指定大小的小数组。
      *
      * @param numbers Input array of numbers
      * @param size    The chunk size
@@ -103,7 +103,7 @@ public abstract class Snippets {
     }
 
     /**
-     * Counts the occurrences of a value in an array.
+     * 计算数组中值的出现次数。
      *
      * @param numbers Array of numbers
      * @param value   the value for which we have to count occurrences
@@ -116,7 +116,7 @@ public abstract class Snippets {
     }
 
     /**
-     * Deep flattens an array.
+     * 深度平整阵列。
      *
      * @param input A nested array containing integers
      * @return flattened array
@@ -132,7 +132,7 @@ public abstract class Snippets {
     }
 
     /**
-     * Returns the difference between two arrays.
+     * 返回两个数组之间的差异。
      *
      * @param first  the first array
      * @param second the second array
@@ -162,7 +162,7 @@ public abstract class Snippets {
     }
 
     /**
-     * Returns all the distinct values of an array.
+     * 返回数组的所有不同值。
      *
      * @param elements ints
      * @return distinct values
